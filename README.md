@@ -32,8 +32,29 @@ Test support of Path Alias (@) and vuex hints.
     * Must work Go to definition and params hints (ctx, {paramN})
     * Doesnt works :(
 
+## Scripts
+
 ```bash
 npm install # Project setup
 npm run serve # Compiles and hot-reloads for development
 npm run build # Compiles and minifies for production
 ```
+
+
+## Useful screens and data
+
+### Webpack settings in IDEA
+
+![Webpack Settings](./screens/screenshot1.png)
+
+### Event log
+
+![Event Log](./screens/screenshot2.png)) 
+
+### resolve of webpack config
+
+(See file [in JSON](./screens/screenshot3.json))
+
+![Webpack Settings](./screens/screenshot3.png))
+
+
